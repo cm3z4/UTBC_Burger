@@ -1,0 +1,16 @@
+body {
+  background-color: #363a51;
+}
+  
+img {
+  width: 200px;
+  height: 200px;
+}
+
+li, .btn {
+  margin: 2px;
+}
+
+.headers-fonts {
+  color: #5cc59e;
+}
