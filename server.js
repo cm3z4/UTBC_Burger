@@ -17,5 +17,5 @@ app.use('/', router);
 
 // Server is listening on...
 app.listen(PORT, function () {
-    console.log("Application is listening on PORT " + PORT + ".");
+    console.log('Application is listening on PORT ' + PORT + '.');
 });
