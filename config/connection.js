@@ -1,4 +1,4 @@
-const mysql = require('mysql');
+var mysql = require('mysql');
 var connection;
 
 // For Heroku Deployment vs. Local MySQL Database

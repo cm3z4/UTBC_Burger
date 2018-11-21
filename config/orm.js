@@ -1,5 +1,5 @@
 // Require the connection.js file.
-const connection = require('./connection.js');
+var connection = require('./connection.js');
 
 // Connect to a MySQL database.
 connection.connect(function (err) {
