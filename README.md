@@ -1,6 +1,6 @@
-#burger
+# UTBC_Burger
 
-Burger is a a Node.js application that simulates a burger menu.
+UTBC_Burger is a a Node.js application that simulates a burger menu.
 
 You can eat, add and remove a burger from the menu with a click of a button.
 
